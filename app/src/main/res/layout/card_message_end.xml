@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:gravity="end"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:contentPadding="@dimen/cardview_content_padding"
+        app:cardCornerRadius="16dp"
+        android:id="@+id/card_layout"
+        android:clickable="true"
+        android:layout_gravity="start"
+        app:cardUseCompatPadding="true"
+        android:focusable="true"
+        android:layoutDirection="rtl"
+        android:foreground="?android:attr/selectableItemBackground"
+        app:cardPreventCornerOverlap="true"
+        android:orientation="vertical">
+
+
+
+        <RelativeLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="24dp"
+                android:src="@mipmap/ngu"
+                android:layout_marginEnd="8dp"
+                app:civ_border_color="#33333333"
+                app:civ_border_width="1dp"
+                app:civ_border_overlay="true"
+                app:civ_fill_color="#fff"
+                android:id="@+id/circle_image_icon"
+                android:layout_marginBottom="@dimen/cardview_circle_img_padding"
+                android:layout_height="24dp" />
+
+            <android.support.v7.widget.AppCompatTextView
+                android:layout_width="wrap_content"
+                android:textSize="12sp"
+                android:textStyle="bold"
+
+                android:id="@+id/message_user"
+                android:layout_toEndOf="@id/circle_image_icon"
+                android:layout_height="wrap_content"
+                android:text="Welcome" />
+
+            <android.support.v7.widget.AppCompatTextView
+                android:layout_width="wrap_content"
+                android:textSize="8sp"
+                android:textStyle="italic"
+                android:layout_toEndOf="@id/circle_image_icon"
+                android:layout_below="@id/message_user"
+                android:id="@+id/message_date"
+                android:layout_marginBottom="8dp"
+                android:layout_height="wrap_content"
+                android:text="Welcome" />
+            <android.support.v7.widget.AppCompatTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="10sp"
+                android:layout_below="@id/circle_image_icon"
+                android:id="@+id/message_text"
+                android:text="Welcome" />
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

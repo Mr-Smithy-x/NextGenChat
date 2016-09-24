@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="co.yoprice.nextgenchat">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <uses-permission-sdk-23 android:name="android.permission.INTERNET" />
+    <uses-permission-sdk-23 android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission-sdk-23 android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission-sdk-23 android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ngu"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainChatActivity"
+            android:launchMode="singleTask">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>c
+        </activity>
+        <activity
+            android:name=".ImageActivity"
+            android:launchMode="singleTask"
+            android:icon="@mipmap/ngu" />
+        <activity
+            android:name=".StreamableAcitivity"
+            android:label="@string/title_activity_streamable_acitivity"
+            android:launchMode="singleTask"
+            android:parentActivityName=".MainChatActivity"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainChatActivity" />
+        </activity>
+        <activity
+            android:name=".PasteActivity"
+            android:label="@string/title_activity_paste"
+            android:launchMode="singleTask"
+            android:parentActivityName=".MainChatActivity"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainChatActivity" />
+        </activity>
+        <activity
+
+            android:launchMode="singleTask"
+            android:name=".FullScreenLoginActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_full_screen_login"
+            android:parentActivityName=".MainChatActivity"
+            android:theme="@style/FullscreenTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="co.yoprice.nextgenchat.MainChatActivity" />
+        </activity>
+    </application>
+
+</manifest>

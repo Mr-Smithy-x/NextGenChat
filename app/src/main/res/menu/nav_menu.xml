@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/grp1"
+        android:checkableBehavior="single">
+        <item
+            android:icon="@drawable/ic_new_releases_black_24dp"
+            android:id="@+id/nav_news"
+            android:title="What&apos;s new" />
+        <item
+            android:icon="@drawable/ic_school_black_24dp"
+            android:id="@+id/nav_rev"
+            android:title="Latest Revisions" />
+    </group>
+
+    <group
+        android:id="@+id/grp2"
+        android:checkableBehavior="single">
+        <item
+            android:icon="@drawable/ic_delete_black_24dp"
+            android:id="@+id/nav_clear"
+            android:title="Clear Cache" />
+        <item
+            android:icon="@drawable/ic_delete_black_24dp"
+            android:id="@+id/nav_clear_reset"
+            android:title="Clear &amp; Reset" />
+    </group>
+
+
+    <group
+        android:id="@+id/grp3"
+        android:checkableBehavior="single">
+        <item
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:id="@+id/nav_setting"
+            android:title="Settings" />
+        <item
+            android:icon="@drawable/ic_live_help_black_24dp"
+            android:id="@+id/nav_help"
+            android:title="Help &amp; feedback" />
+        <item
+            android:icon="@drawable/ic_info_black_24dp"
+            android:id="@+id/nav_about"
+            android:title="About NextGenChat" />
+    </group>
+</menu>

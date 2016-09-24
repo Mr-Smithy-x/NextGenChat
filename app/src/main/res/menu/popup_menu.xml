@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/extern_menu">
+        <item
+            android:id="@+id/open_extern"
+            android:title="Open Link" />
+    </group>
+
+    <group android:id="@+id/copy_menu">
+        <item
+            android:id="@+id/copy_popup"
+            android:title="Copy Shout" />
+        <item
+            android:id="@+id/copy_link"
+            android:title="Copy Link" />
+    </group>
+
+    <group android:id="@+id/share_menu">
+        <item
+            android:id="@+id/copy_upload"
+            android:title="Upload Shout" />
+        <item
+            android:id="@+id/copy_share"
+            android:title="Share Shout" />
+    </group>
+
+</menu>

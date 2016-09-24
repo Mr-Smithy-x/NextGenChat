@@ -1,0 +1,1284 @@
+<div id="shoutbox_window" class="shoutbox_window">
+<span id="shoutbox_frame" class="shoutbox_frame"><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+<div style="padding-top: 1px; padding-bottom: 1px;padding-bottom: 6px;" class="">
+Notice
+:<span id="latest_article"></span>
+<script type="text/javascript">$('#latest_article').load('//www.nextgenupdate.com/news/latest_article');</script> <a href="https://www.youtube.com/subscription_center?add_user=nextgensource" target="_blank"><font color="violet"><b> Sub to NGS on YouTube!</b></font></a> - <a href="http://www.nextgenupdate.com/forums/member-month/903494-may-2016-a.html" target="_blank"><font color="green"><b>May MOTM Nominations</b></font></a> - <a href="http://www.nextgenupdate.com/forums/ngu-announcements/900033-sectional-moderator-applications-new-post.html" target="_blank"><font color="purple"><b>Apply For Staff Now! </b></font></a> - <a href="http://www.nextgenupdate.com/forums/call-duty-infinite-warfare/" target="_blank"><font color="black"><b>COD IW Section</b></font></a> - <a href="http://www.nextgenupdate.com/forums/battlefield-1/" target="_blank"><font color="blue"><b>Battlefield 1 Section</b></font></a> - <a href="http://www.nextgenupdate.com/forums/showthread.php?t=905768" target="_blank"><font color="red"><b>New BBCODE</b></font></a> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 05:10 PM</span>]</span>
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1009516', 'Dwight K Schrute');">
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1009516', 'Dwight K Schrute');">
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1009516', 'Dwight K Schrute');">
+
+<span style="font-weight: bold; color: #FF8040;"><span style="text-shadow:1px 1px 0px black; ">Dwight K Schrute</span></span>
+
+</a>: <font color="Black"><span style="font-family: Arial">ur ded</span></font> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 05:10 PM</span>]</span>
+
+  <img src="//www.nextgenupdate.com/forums/images/shield__arrow.png" style="height:16px;width16px;">
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1602361', 'Toxic');">
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1602361', 'Toxic');">
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1602361', 'Toxic');">
+
+<span class="ngu-secmod" style="font-weight:bold;color:#4E98D8">Toxic</span>
+
+</a>: <font color="Green"><span style="font-family: Comic Sans MS"><i>leaking that thread for only 1k$ <img src="images/smilies/newset1//coolf.png" border="0" alt="" title="Cool Troll" class="inlineimg"></i></span></font> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 05:10 PM</span>]</span>
+
+  <img src="//www.nextgenupdate.com/forums/images/shield__arrow.png" style="height:16px;width16px;">
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+ <span class="ngu-content-mgr" style="font-weight: bold; color:#182735;">SQUID-EYE</span>
+
+</a>: <span style="font-family: Comic Sans MS"><b><img src="images/smilies/qcQ3Y7b.png" border="0" alt="" title="Sal" class="inlineimg"> on skye?</b></span> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 05:10 PM</span>]</span>
+
+
+
+
+
+  <img src="//www.nextgenupdate.com/forums/images/shield__arrow.png" style="height:16px;width16px;">
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1602361', 'Toxic');">
+
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1602361', 'Toxic');">
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1602361', 'Toxic');">
+
+
+
+
+
+<span class="ngu-secmod" style="font-weight:bold;color:#4E98D8">Toxic</span>
+
+
+
+
+</a>: <font color="Green"><span style="font-family: Comic Sans MS"><i>fuckin modbox is dead squid <img src="images/smilies/qcQ3Y7b.png" border="0" alt="" title="Sal" class="inlineimg"></i></span></font> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class="" ondblclick="return InfernoShoutboxControl.edit_shout(12214553);"><span class="hidden-phone">[<span class="time">Today 05:10 PM</span>]</span>
+
+
+
+
+
+
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1138878', 'Mr Smithy x');">
+
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1138878', 'Mr Smithy x');">
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1138878', 'Mr Smithy x');">
+
+
+
+
+
+ <span class="ngu-content-creator" style="font-weight: bold; color:#68C5E7;">Mr Smithy x</span>
+
+</a>: <font color="Brown"><span style="font-family: Palatino Linotype"><b>;-;</b></span></font> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 05:09 PM</span>]</span>
+
+
+  <img src="//www.nextgenupdate.com/forums/images/shield__arrow.png" style="height:16px;width16px;">
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+
+
+
+
+ <span class="ngu-content-mgr" style="font-weight: bold; color:#182735;">SQUID-EYE</span>
+
+
+
+
+</a>: <span style="font-family: Comic Sans MS"><b>it's in the trash <img src="http://www.nextgenupdate.com/forums/images/smilies/LOLguy.png" border="0" alt=""></b></span> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class="">
+
+ <span class="hidden-phone">[<span class="time">Today 05:08 PM</span>]</span>
+ <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1899019', 'Papalito83');"></a>
+ <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1899019', 'Papalito83');"></a>
+ <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1899019', 'Papalito83');">
+      <span id="users_registered" style="color: #A3A3A3;">Papalito83</span>
+ </a>:
+ <a href="http://www.nextgenupdate.com/forums/gta-5-mods/905913-how-freeze-other-players-gta-online.html" target="_blank">http://www.nextgenupdate.com/forums/...ta-online.html</a>
+ <img src="images/smilies/qcQ3Y7b.png" border="0" alt="" title="Sal" class="inlineimg">
+ <img src="images/smilies/newset1//cartman.gif" border="0" alt="" title="Choco" class="inlineimg">
+ </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 05:07 PM</span>]</span>
+
+
+
+
+
+  <img src="//www.nextgenupdate.com/forums/images/shield__arrow.png" style="height:16px;width16px;">
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+
+
+
+
+ <span class="ngu-content-mgr" style="font-weight: bold; color:#182735;">SQUID-EYE</span>
+
+
+
+
+</a>: <span style="font-family: Comic Sans MS"><b>gotta fix dads iphone battery tomorrow <img src="images/smilies/qcQ3Y7b.png" border="0" alt="" title="Sal" class="inlineimg"></b></span> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 05:05 PM</span>]</span>
+
+
+
+
+
+
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_953963', 'ResistTheEarth');">
+
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_953963', 'ResistTheEarth');">
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_953963', 'ResistTheEarth');">
+
+
+
+
+
+<span style="font-weight: bold; color: #FF8040;">ResistTheEarth</span>
+
+
+
+
+</a>: <font color="Black"><span style="font-family: Tahoma"><b><img src="images/smilies/OS7nXeh.gif" border="0" alt="" title="Homer" class="inlineimg"></b></span></font> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 05:05 PM</span>]</span>
+
+
+
+
+
+
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_155496', 'Kas Abuses Me');">
+
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_155496', 'Kas Abuses Me');">
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_155496', 'Kas Abuses Me');">
+
+
+
+
+
+<span style="color: #FF5e00;">Kas Abuses Me</span>
+
+
+
+
+</a>: <font color="Crimson"><span style="font-family: Verdana"><b>Here comes datboi <img src="http://i.imgur.com/O7iQ6wU.gif" border="0" alt="" title="Dat Boi o shit whaddup" class="inlineimg"> O shit waddup? <img src="http://i.imgur.com/O7iQ6wU.gif" border="0" alt="" title="Dat Boi o shit whaddup" class="inlineimg"></b></span></font> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 05:05 PM</span>]</span>
+
+
+
+
+
+  <img src="//www.nextgenupdate.com/forums/images/shield__arrow.png" style="height:16px;width16px;">
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+
+
+
+
+ <span class="ngu-content-mgr" style="font-weight: bold; color:#182735;">SQUID-EYE</span>
+
+
+
+
+</a>: <span style="font-family: Comic Sans MS"><b>Had pizza express <img src="https://i.imgur.com/mJncG4J.png" border="0" alt=""></b></span> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 05:04 PM</span>]</span>
+
+
+
+
+
+
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_953963', 'ResistTheEarth');">
+
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_953963', 'ResistTheEarth');">
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_953963', 'ResistTheEarth');">
+
+
+
+
+
+<span style="font-weight: bold; color: #FF8040;">ResistTheEarth</span>
+
+
+
+
+</a>: <font color="Black"><span style="font-family: Tahoma"><b>alright, today it is then <img src="http://www.nextgenupdate.com/forums/images/smilies/ForeverAlone.png" border="0" alt=""></b></span></font> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 05:03 PM</span>]</span>
+
+
+
+
+
+  <img src="//www.nextgenupdate.com/forums/images/shield__arrow.png" style="height:16px;width16px;">
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+
+
+
+
+ <span class="ngu-content-mgr" style="font-weight: bold; color:#182735;">SQUID-EYE</span>
+
+
+
+
+</a>: <span style="font-family: Comic Sans MS"><b>i was cos i thought i was going supermarket <img src="http://i.imgur.com/k4IQL9F.png" border="0" alt="" title="Chavspoder" class="inlineimg"></b></span> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 05:03 PM</span>]</span>
+
+
+
+
+
+
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_686891', 'Red-EyeX32');">
+
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_686891', 'Red-EyeX32');">
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_686891', 'Red-EyeX32');">
+
+
+
+
+
+<span style="font-style:italic; color: #FF5e00;">Red-EyeX32</span>
+
+
+
+
+</a>: <font color="Red"><span style="font-family: Tahoma"><b>GTA V mods in PS4? <img src="http://www.nextgenupdate.com/forums/images/smilies/memes/meme-aww.jpg" border="0" alt=""></b></span></font> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 05:03 PM</span>]</span>
+
+
+
+
+
+
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_796679', 'BLURRYFACE');">
+
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_796679', 'BLURRYFACE');">
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_796679', 'BLURRYFACE');"> <img title="My name's 'Blurryface' and I care what you think." src="http://i.imgur.com/MEjalKt.png">
+
+
+
+
+
+<span class="laim-name">BLURRYFACE</span>
+
+
+
+
+</a>: <font color="Black"><span style="font-family: Verdana">i love how i have two smileys dedicated to two different usernames</span></font> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 05:03 PM</span>]</span>
+
+
+
+
+
+
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_584650', 'Hammy');">
+
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_584650', 'Hammy');">
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_584650', 'Hammy');">
+
+
+
+
+
+<span style="font-weight: bold; color: #FF8040;">Hammy</span>
+
+
+
+
+</a>: <font color="Red"><span style="font-family: Arial">scammed u rte <img src="images/smilies/qcQ3Y7b.png" border="0" alt="" title="Sal" class="inlineimg"></span></font> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 05:03 PM</span>]</span>
+
+
+
+
+
+
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1316774', 'It\'s Classified');">
+
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1316774', 'It\'s Classified');">
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1316774', 'It\'s Classified');">
+
+
+
+
+
+<span style="color: #FF5e00;">It's Classified</span>
+
+
+
+
+</a>: <font color="Black"><span style="font-family: Arial">never played that map <img src="images/smilies/qcQ3Y7b.png" border="0" alt="" title="Sal" class="inlineimg"></span></font> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 05:03 PM</span>]</span>
+
+
+
+
+
+
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_953963', 'ResistTheEarth');">
+
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_953963', 'ResistTheEarth');">
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_953963', 'ResistTheEarth');">
+
+
+
+
+
+<span style="font-weight: bold; color: #FF8040;">ResistTheEarth</span>
+
+
+
+
+</a>: <font color="Black"><span style="font-family: Tahoma"><b>you said you would get it yesterday <img src="http://i.imgur.com/pkO7QBf.png" border="0" alt="" title="MEGALELZ" class="inlineimg"></b></span></font> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 05:03 PM</span>]</span>
+
+
+
+
+
+
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1009516', 'Dwight K Schrute');">
+
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1009516', 'Dwight K Schrute');">
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1009516', 'Dwight K Schrute');">
+
+
+
+
+
+<span style="font-weight: bold; color: #FF8040;"><span style="text-shadow:1px 1px 0px black; ">Dwight K Schrute</span></span>
+
+
+
+
+</a>: <font color="Black"><span style="font-family: Arial">pusc</span></font> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 05:02 PM</span>]</span>
+
+
+
+
+
+  <img src="//www.nextgenupdate.com/forums/images/shield__arrow.png" style="height:16px;width16px;">
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+
+
+
+
+ <span class="ngu-content-mgr" style="font-weight: bold; color:#182735;">SQUID-EYE</span>
+
+
+
+
+</a>: <span style="font-family: Comic Sans MS"><b>i'm by work today <img src="images/smilies/qcQ3Y7b.png" border="0" alt="" title="Sal" class="inlineimg"></b></span> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 05:02 PM</span>]</span>
+
+
+
+
+
+  <img src="//www.nextgenupdate.com/forums/images/shield__arrow.png" style="height:16px;width16px;">
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+
+
+
+
+ <span class="ngu-content-mgr" style="font-weight: bold; color:#182735;">SQUID-EYE</span>
+
+
+
+
+</a>: <span style="font-family: Comic Sans MS"><b>steam card soon rte <img src="images/smilies/qcQ3Y7b.png" border="0" alt="" title="Sal" class="inlineimg"></b></span> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 05:02 PM</span>]</span>
+
+
+
+
+
+
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1481591', 'Ali');">
+
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1481591', 'Ali');">
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1481591', 'Ali');">
+
+
+
+
+
+<span id="users_registered" style="color: #A3A3A3;"><span style="text-shadow:1px 1px 0px #00ffff; ">Ali</span></span>
+
+
+
+
+</a>: <font color="Black"><span style="font-family: Arial">I'm 6186 so far <img src="images/smilies/qcQ3Y7b.png" border="0" alt="" title="Sal" class="inlineimg"></span></font> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 05:02 PM</span>]</span>
+
+
+
+
+
+
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1316774', 'It\'s Classified');">
+
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1316774', 'It\'s Classified');">
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1316774', 'It\'s Classified');">
+
+
+
+
+
+<span style="color: #FF5e00;">It's Classified</span>
+
+
+
+
+</a>: <font color="Black"><span style="font-family: Arial"><img src="http://www.nextgenupdate.com/forums/images/smilies/memes/meme-aww.jpg" border="0" alt=""> nothx</span></font> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 05:02 PM</span>]</span>
+
+
+
+
+
+
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1481591', 'Ali');">
+
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1481591', 'Ali');">
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1481591', 'Ali');">
+
+
+
+
+
+<span id="users_registered" style="color: #A3A3A3;"><span style="text-shadow:1px 1px 0px #00ffff; ">Ali</span></span>
+
+
+
+
+</a>: <font color="Black"><span style="font-family: Arial">Rip</span></font> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 05:02 PM</span>]</span>
+
+
+
+
+
+
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_953963', 'ResistTheEarth');">
+
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_953963', 'ResistTheEarth');">
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_953963', 'ResistTheEarth');">
+
+
+
+
+
+<span style="font-weight: bold; color: #FF8040;">ResistTheEarth</span>
+
+
+
+
+</a>: <font color="Black"><span style="font-family: Tahoma"><b>SQUID <img src="http://www.nextgenupdate.com/forums/images/smilies/ForeverAlone.png" border="0" alt=""></b></span></font> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 05:02 PM</span>]</span>
+
+
+
+
+
+  <img src="//www.nextgenupdate.com/forums/images/shield__arrow.png" style="height:16px;width16px;">
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+
+
+
+
+ <span class="ngu-content-mgr" style="font-weight: bold; color:#182735;">SQUID-EYE</span>
+
+
+
+
+</a>: <span style="font-family: Comic Sans MS"><b>porn <img src="images/smilies/newset1//coolf.png" border="0" alt="" title="Cool Troll" class="inlineimg"></b></span> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 05:02 PM</span>]</span>
+
+
+
+
+
+  <img src="//www.nextgenupdate.com/forums/images/shield__arrow.png" style="height:16px;width16px;">
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+
+
+
+
+ <span class="ngu-content-mgr" style="font-weight: bold; color:#182735;">SQUID-EYE</span>
+
+
+
+
+</a>: <span style="font-family: Comic Sans MS"><b>hardcore corn <img src="images/smilies/qcQ3Y7b.png" border="0" alt="" title="Sal" class="inlineimg"></b></span> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 05:01 PM</span>]</span>
+
+
+
+
+
+
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1009516', 'Dwight K Schrute');">
+
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1009516', 'Dwight K Schrute');">
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1009516', 'Dwight K Schrute');">
+
+
+
+
+
+<span style="font-weight: bold; color: #FF8040;"><span style="text-shadow:1px 1px 0px black; ">Dwight K Schrute</span></span>
+
+
+
+
+</a>: <font color="Black"><span style="font-family: Arial">Tears. 95.172.92.231:27015</span></font> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 05:01 PM</span>]</span>
+
+
+
+
+
+
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1481591', 'Ali');">
+
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1481591', 'Ali');">
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1481591', 'Ali');">
+
+
+
+
+
+<span id="users_registered" style="color: #A3A3A3;"><span style="text-shadow:1px 1px 0px #00ffff; ">Ali</span></span>
+
+
+
+
+</a>: <font color="Black"><span style="font-family: Arial">Dom</span></font> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 05:01 PM</span>]</span>
+
+
+
+
+
+
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1481591', 'Ali');">
+
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1481591', 'Ali');">
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1481591', 'Ali');">
+
+
+
+
+
+<span id="users_registered" style="color: #A3A3A3;"><span style="text-shadow:1px 1px 0px #00ffff; ">Ali</span></span>
+
+
+
+
+</a>: <font color="Black"><span style="font-family: Arial">Wanna be in top 100 of bo3 hardcore com <img src="images/smilies/feels.png" border="0" alt="" title="Them feels" class="inlineimg"></span></font> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 05:01 PM</span>]</span>
+
+
+
+
+
+  <img src="//www.nextgenupdate.com/forums/images/shield__arrow.png" style="height:16px;width16px;">
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+
+
+
+
+ <span class="ngu-content-mgr" style="font-weight: bold; color:#182735;">SQUID-EYE</span>
+
+
+
+
+</a>: <span style="font-family: Comic Sans MS"><b>got a new painting for my room £3k though <img src="images/smilies/qcQ3Y7b.png" border="0" alt="" title="Sal" class="inlineimg"> and some clothes and stuff <img src="http://www.nextgenupdate.com/forums/images/smilies/=D.jpg" border="0" alt=""></b></span> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 05:01 PM</span>]</span>
+
+
+
+
+
+  <img src="//www.nextgenupdate.com/forums/images/shield__arrow.png" style="height:16px;width16px;">
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+
+
+
+
+ <span class="ngu-content-mgr" style="font-weight: bold; color:#182735;">SQUID-EYE</span>
+
+
+
+
+</a>: <span style="font-family: Comic Sans MS"><b>had a good day today so far <img src="http://www.nextgenupdate.com/forums/images/smilies/memes/%5E%5E.jpg" border="0" alt=""></b></span> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 05:01 PM</span>]</span>
+
+
+
+
+
+
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_584650', 'Hammy');">
+
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_584650', 'Hammy');">
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_584650', 'Hammy');">
+
+
+
+
+
+<span style="font-weight: bold; color: #FF8040;">Hammy</span>
+
+
+
+
+</a>: <font color="Red"><span style="font-family: Arial">then, no <img src="images/smilies/deltakappa.png" border="0" alt="" title="Kappa" class="inlineimg"></span></font> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 05:01 PM</span>]</span>
+
+
+
+
+
+  <img src="//www.nextgenupdate.com/forums/images/shield__arrow.png" style="height:16px;width16px;">
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+
+
+
+
+ <span class="ngu-content-mgr" style="font-weight: bold; color:#182735;">SQUID-EYE</span>
+
+
+
+
+</a>: <span style="font-family: Comic Sans MS"><b>oh well <img src="http://www.nextgenupdate.com/forums/images/smilies/newset1/smile.gif" border="0" alt="" title="Smile" class="inlineimg"></b></span> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 05:01 PM</span>]</span>
+
+
+
+
+
+
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_584650', 'Hammy');">
+
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_584650', 'Hammy');">
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_584650', 'Hammy');">
+
+
+
+
+
+<span style="font-weight: bold; color: #FF8040;">Hammy</span>
+
+
+
+
+</a>: <font color="Red"><span style="font-family: Arial">drinking water <img src="images/smilies/deltakappa.png" border="0" alt="" title="Kappa" class="inlineimg"></span></font> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 05:00 PM</span>]</span>
+
+
+
+
+
+  <img src="//www.nextgenupdate.com/forums/images/shield__arrow.png" style="height:16px;width16px;">
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1602867', 'Kam');">
+
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1602867', 'Kam');">
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1602867', 'Kam');">
+
+
+
+
+
+ <span class="ngu-content-mgr" style="font-weight: bold; color:#182735;">Kam</span>
+
+
+
+
+</a>: <font color="Black"><span style="font-family: Microsoft Sans Serif">yes</span></font> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 05:00 PM</span>]</span>
+
+
+
+
+
+  <img src="//www.nextgenupdate.com/forums/images/shield__arrow.png" style="height:16px;width16px;">
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_59641', 'SQUID-EYE');">
+
+
+
+
+
+ <span class="ngu-content-mgr" style="font-weight: bold; color:#182735;">SQUID-EYE</span>
+
+
+
+
+</a>: <span style="font-family: Comic Sans MS"><b>is it bad im drinking at work? <img src="http://www.nextgenupdate.com/forums/images/smilies/LOLguy.png" border="0" alt=""></b></span> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 05:00 PM</span>]</span>
+
+
+
+
+
+
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1009516', 'Dwight K Schrute');">
+
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1009516', 'Dwight K Schrute');">
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1009516', 'Dwight K Schrute');">
+
+
+
+
+
+<span style="font-weight: bold; color: #FF8040;"><span style="text-shadow:1px 1px 0px black; ">Dwight K Schrute</span></span>
+
+
+
+
+</a>: <font color="Black"><span style="font-family: Arial"><img src="images/smilies/noface.png" border="0" alt="" title="NO" class="inlineimg"></span></font> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 05:00 PM</span>]</span>
+
+
+
+
+
+
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1316774', 'It\'s Classified');">
+
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1316774', 'It\'s Classified');">
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_1316774', 'It\'s Classified');">
+
+
+
+
+
+<span style="color: #FF5e00;">It's Classified</span>
+
+
+
+
+</a>: <font color="Black"><span style="font-family: Arial">learn to tie a noose then <img src="http://www.nextgenupdate.com/forums/images/smilies/drack-bert.gif" border="0" alt=""></span></font> </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --><!-- BEGIN TEMPLATE: inferno_shoutbox_shout -->
+
+<div style="padding-top: 1px; padding-bottom: 1px;" class=""><span class="hidden-phone">[<span class="time">Today 04:59 PM</span>]</span>
+
+
+
+
+
+
+  <a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_300335', '1UP');">
+
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_300335', '1UP');">
+
+
+
+
+
+ </a><a href="#" onclick="return InfernoShoutboxControl.open_pm_tab('pm_300335', '1UP');">
+
+
+
+
+
+<span style="font-style:italic; color: #FF5e00;"><span style="text-shadow: 0px 0px 0.2em #00e500, 0px 0px 0.2em #00e500, 0px 0px 0.2em #00e500; ">1UP</span></span>
+
+
+
+
+</a>: i was going to say potato </div>
+<!-- END TEMPLATE: inferno_shoutbox_shout --></span>
+<span id="shoutbox_users_frame" class="shoutbox_frame_users">
+Loading...
+</span>
+</div>

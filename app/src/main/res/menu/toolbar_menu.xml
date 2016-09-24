@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/grp1"
+        android:checkableBehavior="all">
+        <item
+            android:id="@+id/toolbar_notif"
+            android:checked="true"
+            android:title="Notification" />
+
+        <item
+            android:id="@+id/toolbar_constant"
+            android:checked="true"
+            android:title="Constant Notif" />
+
+        <item
+            android:id="@+id/toolbar_vib"
+            android:title="Vibrate" />
+
+    </group>
+
+
+    <item
+        android:id="@+id/toolbar_ss"
+        android:title="Screenshot" />
+
+</menu>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/card_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:focusable="true"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:orientation="vertical"
+        app:cardCornerRadius="8dp"
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="@dimen/cardview_content_padding">
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:id="@+id/circle_image_icon"
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_marginBottom="@dimen/cardview_circle_img_padding"
+                    android:layout_marginEnd="8dp"
+                    android:src="@mipmap/ngu"
+                    app:civ_border_color="#33333333"
+                    app:civ_border_overlay="true"
+                    app:civ_border_width="1dp"
+                    app:civ_fill_color="#fff" />
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/message_user"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toEndOf="@id/circle_image_icon"
+                    android:text="Welcome"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/message_date"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/message_user"
+                    android:layout_marginBottom="8dp"
+                    android:layout_toEndOf="@id/circle_image_icon"
+                    android:text="Welcome"
+                    android:textSize="8sp"
+                    android:textStyle="italic" />
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/message_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/circle_image_icon"
+                    android:text="Welcome"
+                    android:textSize="10sp" />
+
+            </RelativeLayout>
+
+            <android.support.v7.widget.AppCompatImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:id="@+id/card_image_display"
+                android:layout_below="@id/message_text"
+                android:scaleType="centerCrop"
+                android:src="@mipmap/ngu" />
+        </LinearLayout>
+
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>
